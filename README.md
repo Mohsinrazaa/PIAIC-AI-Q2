@@ -1,9 +1,7 @@
-# PIAIC-AI-Q2
+# PIAIC-AI-Q2-Batch:4
+#### Roll Number:PIAIC50446
+
 PIAIC-AI Q2 Files  &amp; Assignments
-
-Roll Number:PIAIC50446
-
-Batch:4
 
 ## Deep Learning:
 
